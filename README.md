@@ -38,3 +38,6 @@ Para este exemplo, utilizámos apenas as duas primeiras características (Sépal
 - **Bolinhas:** representam os dados de treino
 - **Estrelas:** representam os dados de teste previstos corretamente
 - **"X":** representam os dados de teste previstos incorretamente
+
+
+![Plot exemplo KNN](image.png)
